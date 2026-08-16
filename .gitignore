@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.pyc
+.idea/
+
+# Recorded frames. Several GB, and regenerable by driving.
+Data/
+
+# Checkpoints are ~17 MB each and there are a lot of them.
+# Only the shipped model is tracked.
+Models/*
+!Models/Model 5.3.pth
+
+# Debug renders from crop tuning.
+crop_check*.png
+imagussy*.png
