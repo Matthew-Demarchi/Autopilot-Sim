@@ -6,6 +6,9 @@ __pycache__/
 # Recorded frames. Several GB, and regenerable by driving.
 Data/
 
+Evaluations/*
+!Evaluations/Model 5.3.txt
+
 # Checkpoints are ~17 MB each and there are a lot of them.
 # Only the shipped model is tracked.
 Models/*
