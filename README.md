@@ -1,3 +1,4 @@
+<img width="186" height="104" alt="Autopilot Model demo Full" src="https://github.com/user-attachments/assets/b744611b-09fc-4482-ab70-4bd3943cb98f" />
 # Autopilot Sim
 
 This sim lets you record yourself driving, and trains a cnn to mimic the behavior.
